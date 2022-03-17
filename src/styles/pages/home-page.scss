@@ -1,0 +1,20 @@
+.post-form {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+  width: 750px;
+  height: 250px;
+  margin: 40px auto;
+}
+
+.post-title {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.post-input__container {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+}

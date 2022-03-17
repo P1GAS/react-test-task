@@ -1,0 +1,16 @@
+.link {
+  display: table;
+  margin: 0 auto;
+  text-decoration: none;
+  padding: 20px;
+  margin-top: 20px;
+  color: white;
+  background-color: #9b9b2d;
+  border-radius: 4px;
+}
+
+@import "home-page";
+
+@import "not-found-page";
+
+@import "profile-page";

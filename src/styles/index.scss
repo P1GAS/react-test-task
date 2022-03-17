@@ -1,0 +1,23 @@
+@import "reset-css";
+
+@import "@fontsource/roboto/300.css";
+@import "@fontsource/roboto/400.css";
+@import "@fontsource/roboto/500.css";
+@import "@fontsource/roboto/700.css";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 20px;
+  font-family: "Roboto";
+}
+
+@import "components";
+
+@import "pages";
